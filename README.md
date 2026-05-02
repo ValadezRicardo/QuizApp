@@ -51,7 +51,7 @@ QuizApp es una aplicación de preguntas y respuestas con diseño moderno, animac
 ## Autor
 
 **Ricardo Valadez** — [@ValadezRicardo](https://github.com/ValadezRicardo)  
-LinkedIn: [linkedin.com/in/ricardovaladez](https://linkedin.com/in/ricardovaladez)
+LinkedIn: [linkedin.com/in/ricardovaladez](https://linkedin.com/in/ricardo-valadez)
 
 ## Licencia
 
